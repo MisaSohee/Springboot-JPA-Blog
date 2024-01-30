@@ -1,7 +1,7 @@
 package com.cos.blog.model;
 
 import com.cos.blog.RoleType;
-import jakarta.persistence.*;
+import javax.persistence.*;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
